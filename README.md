@@ -20,3 +20,4 @@ NOTE- Only the contract owner can mint the tokens to any address.
 ## Video Walkthrough
 
 Attaching my loom video for your reference. 
+Video Link: https://www.loom.com/share/2ba29e228bad45bdbb7d27136a2ad88c?sid=67832f7f-9caf-43d3-8cdd-84b2a9ddd4c2
